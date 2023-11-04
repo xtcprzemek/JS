@@ -1,0 +1,17 @@
+#container {
+    min-height: 100px;
+}
+.box {
+    min-height: 200px;
+    border:1px black solid;
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    
+}
+p {
+    margin-left: 1em;
+    margin-right: 1em;
+}
